@@ -6,8 +6,8 @@
 - 🎯 Goal: Become an excellent software engineer creating impactful technology
 - 📫 How to reach me:  
 &nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kien.trangod1512@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tr%E1%BA%A7n-ki%C3%AAn-65a4a72a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPRTVnVJT82%2BCPbYJCY41A%3D%3D))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/your-profile](https://www.facebook.com/kienbirooir/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tr%E1%BA%A7n-ki%C3%AAn-65a4a72a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPRTVnVJT82%2BCPbYJCY41A%3D%3D)](https://www.linkedin.com/in/tr%E1%BA%A7n-ki%C3%AAn-65a4a72a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPRTVnVJT82%2BCPbYJCY41A%3D%3D))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([[https://www.facebook.com/your-profile](https://www.facebook.com/kienbirooir/)](https://www.facebook.com/kienbirooir/))
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@kiengudboiz3415)
 
 ## 🛠️ Skills
