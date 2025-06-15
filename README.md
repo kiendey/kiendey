@@ -39,7 +39,7 @@
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kientran-dev&show_icons=true&theme=radical)
-![Số lượt xem hồ sơ](https://komarev.com/ghpvc/?username=kientran-dev)
+
 ## 💬 Favorite Quote
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
